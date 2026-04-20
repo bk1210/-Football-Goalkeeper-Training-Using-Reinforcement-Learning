@@ -84,15 +84,6 @@ MIT License — free to use, modify, and distribute.
 - 🐙 GitHub: [@bk1210](https://github.com/bk1210)
 - 🎓 Institution:Amrita Vishwa Vidyapeetham
 
----
-
-## 🙏 Acknowledgements
-
-- [Groq](https://groq.com) — for providing free, ultra-fast LLM inference
-- [Meta AI](https://ai.meta.com/llama/) — for the open-source LLaMA 3.3-70B model
-- [Streamlit](https://streamlit.io) — for making Python web apps effortless
-
----
 
 <div align="center">
 
