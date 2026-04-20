@@ -89,6 +89,6 @@ MIT License — free to use, modify, and distribute.
 
 **⭐ If you found this project useful, please give it a star on GitHub! ⭐**
 
-*Built with ❤️ for college students everywhere*
+*Built with ⚽🤍 Football Passion*
 
 </div>
