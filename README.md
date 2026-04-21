@@ -57,7 +57,7 @@ The system combines three layers:
 
 ## 🖥️ Demo
 
-![Demo](demo.mp4)
+![Demo](Demo.mp4)
 ### Controls
 ```
 WASD / Arrow Keys  → Move attacker
